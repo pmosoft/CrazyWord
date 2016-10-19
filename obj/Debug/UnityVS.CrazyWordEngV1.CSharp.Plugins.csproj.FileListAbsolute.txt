@@ -1,0 +1,17 @@
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\HOTween.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\IFacebook.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\LitJson.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\P31RestKit.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\Parse.Unity.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\SQLite4Unity3d.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\Temp\UnityVS_bin\Debug\HOTween.xml
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\obj\Debug\UnityVS.CrazyWordEngV1.CSharp.Plugins.csprojResolveAssemblyReference.cache
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Documents\dev\src\unity\App\CrazyWord\CrazyWordEngV1\obj\Debug\Assembly-CSharp-firstpass.pdb
