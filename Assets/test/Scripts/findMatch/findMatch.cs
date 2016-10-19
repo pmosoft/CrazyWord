@@ -1,0 +1,93 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public struct Tile3 {
+	
+	public bool isDice;
+	public int x;
+	public int y;
+	public int frontNumber;	
+
+	public Tile3(bool isDice,int x, int y, int frontNumber)
+	{
+		this.isDice = isDice;
+		this.x = x;
+		this.y = y;
+		this.frontNumber = frontNumber;	
+	}
+
+	public void SetTile3(bool	 isDice,int x, int y, int frontNumber)
+	{
+		this.isDice = isDice;
+		this.x = x;
+		this.y = y;
+		this.frontNumber = frontNumber;	
+	}
+
+}
+
+public class findMatch : MonoBehaviour {
+
+	public Tile3[,] diceTiles = new Tile3[4,4];
+
+	// Use this for initialization
+	void Start () {
+
+    // setting test data 
+		diceTiles[0,0].SetTile3(true ,0,0,6);
+		diceTiles[1,0].SetTile3(true ,1,0,6);
+		diceTiles[2,0].SetTile3(true ,2,0,6);
+		diceTiles[3,0].SetTile3(true ,3,0,6);
+                                     
+		diceTiles[0,1].SetTile3(false,0,1,0);
+		diceTiles[1,1].SetTile3(true ,1,1,6);
+		diceTiles[2,1].SetTile3(true ,2,1,5);
+		diceTiles[3,1].SetTile3(true ,3,1,6);
+                                     
+		diceTiles[0,2].SetTile3(false,0,2,0);
+		diceTiles[1,2].SetTile3(true ,1,2,6);
+		diceTiles[2,2].SetTile3(false,2,2,0);
+		diceTiles[3,2].SetTile3(false,3,2,0);
+                                     
+		diceTiles[0,3].SetTile3(false,0,3,0);
+		diceTiles[1,3].SetTile3(false,1,3,0);
+		diceTiles[2,3].SetTile3(false,2,3,0);
+		diceTiles[3,3].SetTile3(false,3,3,0);
+	
+		//print (diceTiles[0,0].isDice);
+		//print (diceTiles[0,0].x);
+		//print (diceTiles[0,1].y);
+
+		print (diceTiles[1,2].frontNumber);
+
+		//int x1 = diceTiles[1,2].x;
+		//int y1 = diceTiles[1,2].y;
+
+//		if (diceTiles[x1,y1].frontNumber = diceTiles[x1-1,y1].frontNumber) 
+//		{
+//
+//		} else
+//		{
+//
+//		}
+//
+	
+	}
+
+	private void findMatch2(int x, int y) {
+		
+//		bool isMatchLeft;
+//		bool isMatchRight;
+//		bool isMatchTop;
+//		bool isMatchBottom;
+
+			
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	
+	}
+	
+}
